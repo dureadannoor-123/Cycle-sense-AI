@@ -64,8 +64,8 @@ CycleSenseAI/
 ```
 ## 📩 Contact
 
-**👩‍💻 Afnan Shoukat**  
-📧 Email: [afnnashoukat35@hmail.com](mailto:afnnashoukat35@hmail.com)  
-🔗 LinkedIn: [www.linkedin.com/in/afnan-shoukat-030306267](https://www.linkedin.com/in/afnan-shoukat-030306267)
+**👩‍💻 Dure Adan Noor**  
+📧 Email: [dureadannoor88@gmail.com](mailto:dureadannoor88@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/dure-adan-noor-29b01b2b5](https:linkedin.com/in/dure-adan-noor-29b01b2b5)
 
 ---
