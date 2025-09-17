@@ -1,0 +1,3 @@
+url = "https://dovbouofqmooutbxjnty.supabase.co"
+key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRvdmJvdW9mcW1vb3V0YnhqbnR5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAzMTcxMDMsImV4cCI6MjA1NTg5MzEwM30.FBCTworNdQA88VIe8uxVilvKT8ImMZLhuN3wbCGT_xQ"
+
